@@ -1,5 +1,6 @@
 # AWS
 This repository is dedicate for AWS researches and findings
 
-//This is just a test
+yum install centos-6
+launch centos-6 -y
 
